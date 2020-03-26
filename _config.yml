@@ -1,5 +1,5 @@
 #page title
-page_title                                : FaceAlert: Building Healthy Habits                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : "FaceAlert: Building Healthy Habits"                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1503094024                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Andrew Munsell                                
-your_link                                 : https://www.andrewmunsell.com                     
+your_link                                 : "https://www.andrewmunsell.com"                     
 your_city                                 : Seattle                                
 email_address                             : andrew@wizardapps.net
 facebook_username                         :                                           
