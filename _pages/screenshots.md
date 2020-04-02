@@ -2,7 +2,7 @@
 layout: page
 title: Screenshots
 include_in_header: true
---
+---
 
 Today, FaceAlert works primarily from your Apple Watch. After you start a training session, FaceAlert will show you a live counter with how many times it's detected you touching your face.
 
