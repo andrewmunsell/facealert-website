@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : "FaceAlert: Creating Habits"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Learn not to touch your face.
+app_description                           : Learn not to touch your face using your Apple Watch
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Vibration Alerts
     description                           : You'll be notified via a vibration on your Apple Watch when FaceAlert detects you touch your face.
-    fontawesome_icon_name                 : watch
+    fontawesome_icon_name                 : exclamation
 
   - title                                 : Notifications
     description                           : When a training session has ended, you'll automatically be notified how many times you touched your face.
