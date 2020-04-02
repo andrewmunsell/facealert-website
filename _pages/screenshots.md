@@ -8,6 +8,8 @@ Today, FaceAlert works primarily from your Apple Watch. After you start a traini
 
 You can stop the session at any time, or it will end after an hour automatically.
 
+<br>
+
 ![](/assets/applewatch.png)
 
 <br>
